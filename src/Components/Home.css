@@ -1,3 +1,5 @@
 body{
-    background-image: url("/src/Images/Galaxy\ GIF\ -\ Galaxy\ -\ Discover\ &\ Share\ GIFs.gif");
+    background-image: url("../images/pexels-philippe-donn-1257860.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
