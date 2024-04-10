@@ -1,6 +1,4 @@
 import React, { useState } from 'react'
-import { auth } from './Firebase'
-import { createUserWithEmailAndPassword} from 'firebase/auth'
 import Login from './Login'
 import Signup from './Signup'
 
